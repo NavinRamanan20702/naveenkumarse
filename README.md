@@ -1,7 +1,7 @@
 <h1>Hi, I'm Indira Kumar</h1>
 <h3>A developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter Cross Platform Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
