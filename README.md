@@ -9,4 +9,4 @@
 <a href="https://www.linkedin.com/in/naveenkumar-s-e-69b85a213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenkumar-s-e-69b85a213" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Indira-kumar&show_icons=true&locale=en" alt="Naveenkumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarse&show_icons=true&locale=en" alt="Naveenkumar" /></p>
