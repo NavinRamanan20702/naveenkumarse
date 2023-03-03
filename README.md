@@ -1,4 +1,4 @@
-<h1>Hi, I'm Naveen Ramanan</h1>
+<h1>Hi, I'm Navin Ramanan</h1>
 <h3>A developer from India</h3>
 
 - 🌱 I’m currently learning **Full stack development**
